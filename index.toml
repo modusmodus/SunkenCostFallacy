@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis-addon-compat.pw.toml"
-hash = "ed31c41d93e24053a9c562bea3ffb81592c4e895242f0744f8e85da93ff9000b"
+hash = "0e52077b365b77204c07be0a52539f9e178e0d4ee897c1717df3af47c72529ed"
 metafile = true
 
 [[files]]
@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "e01fabf9f64ee1a9bb82df60bc905643a8963e64bb61e7856cfd7ab06508622e"
+hash = "d518db51c2502b5b04d6ca4add6a2b3e862a0af15e7a65f0ab83180778adb604"
 metafile = true
 
 [[files]]
@@ -874,7 +874,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-foregoing-additional.pw.toml"
-hash = "9a0513c9c94a1f364687c2e269ec73886f587d9b4e8264c6acf317463e976d5a"
+hash = "1a035e7ffdcee8733d5f225f389cf434b5fda30bc20b7523e92e8f8f14d073c3"
 metafile = true
 
 [[files]]
@@ -1284,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/ribbits-croaks.pw.toml"
-hash = "0e5e637ec8b18c404a42dde7e31e1abb8a9b03f44de90dc045258bb871464b34"
+hash = "d9705e57f6364ebe0823b8fe261bdbf5b1c5a9d2ebc150a3ea65fbb576ac6f32"
 metafile = true
 
 [[files]]
@@ -1333,11 +1333,6 @@ hash = "64faee9ca0fb7655cf90fde3e5abc93f38f43faf4fb3c6dd328ca90ce764c247"
 metafile = true
 
 [[files]]
-file = "mods/simply-more.pw.toml"
-hash = "366abe0451afc7f9ce00a1ca991cb1fe481573e3c6ff6d5c0085ee86852a1298"
-metafile = true
-
-[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "e963d7f0df4c955e8a96cd9fe716257dd7d6d5ca20a29d52c16fba9ead943f5b"
 metafile = true
@@ -1349,12 +1344,17 @@ metafile = true
 
 [[files]]
 file = "mods/simply-traps.pw.toml"
-hash = "816ea5ea93ebe36dec90e6758b50ab3d4742843669695504d33d65df23fdd114"
+hash = "fb5554b5e5a26840dff4df635769ec4872eb94d7f700ac0e8fe9d74df37f0a80"
 metafile = true
 
 [[files]]
 file = "mods/simplycataclysm.pw.toml"
-hash = "d59a7a273e78989c720d75bbc1aa80e8cbb9059f38c5dbf3026f103ec45dea40"
+hash = "4fd1283e3f2e8dad4c3023f8a77cb071086e5ebcc83f022a1cb060f41b18695a"
+metafile = true
+
+[[files]]
+file = "mods/simplymore.pw.toml"
+hash = "5ac1c21b88d19ae5b2f021a9aeaaf8f2761e5aac9f1f7a6b6fa59059b65a5e52"
 metafile = true
 
 [[files]]

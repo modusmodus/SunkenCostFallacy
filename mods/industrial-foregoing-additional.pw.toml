@@ -3,11 +3,11 @@ filename = "industrialforegoingadditional-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0b78199ee004b515ba605bf257b0b6e985afd0d8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/JgGKnHow/versions/3O6H8QuS/industrialforegoingadditional-1.2.2.jar"
+hash-format = "sha512"
+hash = "13266673753a2a75d0b9eb85604bf485a28ebbab04c0c91392274de06d5aa2912b77c5500ca5ead7a695f78f37f4aea0a1855f564dcf98a9be8259ae339e0528"
 
 [update]
-[update.curseforge]
-file-id = 8624805
-project-id = 1275476
+[update.modrinth]
+mod-id = "JgGKnHow"
+version = "3O6H8QuS"

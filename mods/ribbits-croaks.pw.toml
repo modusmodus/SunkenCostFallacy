@@ -3,11 +3,11 @@ filename = "croaks-2.0.0-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1ea85c5e175c0b574bee9b3d7a53bb49240f518d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/VtNWzBdM/versions/Vt4uSVmB/croaks-2.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "622632fd1531a1dc6a53fa88f494cf0b99a5dc51b6e8ebc92a2652007169a8e8df6f850d7675f6555cafed56265cb8f7cac2976c7105453b95ca735af48dcbe7"
 
 [update]
-[update.curseforge]
-file-id = 8524954
-project-id = 1560077
+[update.modrinth]
+mod-id = "VtNWzBdM"
+version = "Vt4uSVmB"

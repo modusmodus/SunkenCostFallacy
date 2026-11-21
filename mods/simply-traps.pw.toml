@@ -3,11 +3,11 @@ filename = "simply_traps-1.9-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f2aed296d683f16cf0549f5d6e1d7b5a60f71ce2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/5ukyHy1P/versions/gPmsYVjQ/simply_traps-1.9-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "d47ace875a7d1d4d32928d777034525d09329c09a6a789a3cd03ff4027c99d23aeb6768d9349c0cd9370fbb00bafcf538ccc5e31bf4ffe6fc8bd28218fe78b94"
 
 [update]
-[update.curseforge]
-file-id = 9595827
-project-id = 1172014
+[update.modrinth]
+mod-id = "5ukyHy1P"
+version = "gPmsYVjQ"

@@ -1,13 +1,13 @@
 name = "Apotheosis Addon Compat"
 filename = "apotheosis-addon-compat-1.1.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "8d9f054ea2de1dc0010eca2dc03f5d0d7c552f55"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/wmUAkM5L/versions/R4X2x7qI/apotheosis-addon-compat-1.1.jar"
+hash-format = "sha512"
+hash = "dee0141379d282c7fb562efc8414053954b6dab1853f952c5e6590aac250cd1672e2f406a7b7e76ae213afeb212ab6f407820643ffb55d1ad43103a64d35ab33"
 
 [update]
-[update.curseforge]
-file-id = 8936508
-project-id = 1383638
+[update.modrinth]
+mod-id = "wmUAkM5L"
+version = "R4X2x7qI"
