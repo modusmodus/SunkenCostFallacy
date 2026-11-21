@@ -9,10 +9,6 @@ file = "config/artifacts/items.toml"
 hash = "aa3b993a1b660e64c75261883ac0b16d60ed1c841ad3f2507c4b322298f7a5b0"
 
 [[files]]
-file = "config/block_factorys_bosses-client.toml"
-hash = "62fec4a03a61e3aeca95a57c1cf95b75839a858eb0a7415ab224a3777d1923fc"
-
-[[files]]
 file = "config/block_factorys_bosses-server.toml"
 hash = "f824a7030b4ee227a9a733452f35d8936ba274d2fd587715ea6eba894a4b628f"
 
@@ -23,10 +19,6 @@ hash = "69f2c697aaee7dd1857af2537b485109d1758597b13ee47dfc975a64f6ff4975"
 [[files]]
 file = "config/brutalbosses.json"
 hash = "4a52c5735669a89fe37aee4846eb9e40e5d94763639ef97d4fc0eccc8326bed5"
-
-[[files]]
-file = "config/cataclysm-client.toml"
-hash = "30539883399b8cbb6041baabf7ba26fed8203c6cc5982e1b7fb91c62d80f2fad"
 
 [[files]]
 file = "config/cataclysm-common.toml"
@@ -43,18 +35,6 @@ hash = "a1491c5709b28c269cf38e09d4d3302e13a16c0ded28bd2c468ee1712c07e507"
 [[files]]
 file = "config/crash_assistant/config.toml"
 hash = "79533080cb98b689f286b3f2617ab557d2b1121505585ba7512d12ae832a8dcd"
-
-[[files]]
-file = "config/entityculling.json"
-hash = "9b3a73bf854c3a2531ace74b8e14a2c4215ee9a802be387101d52f7b6b3aca7e"
-
-[[files]]
-file = "config/everycomp-entries.toml"
-hash = "d1133ddf702a99577a6e6c1061e2f1604979eb4751bc1f609c9a32231ca23ca4"
-
-[[files]]
-file = "config/everycomp-hazardous.toml"
-hash = "181d5fbb77060c99f1c5ba17a335ee439511f439987a31ea287b593d7d1d0613"
 
 [[files]]
 file = "config/industrialforegoing/machine-core.toml"
@@ -157,20 +137,12 @@ file = "config/servercore/config.yml"
 hash = "34c3c3841b551639aad5d0fddf4362be206ea195378fe1ac8efd7a757e362b3d"
 
 [[files]]
-file = "config/simplytooltips/config.toml"
-hash = "3e5b250f6fa5e4ffb246fd04e6dcffde1cbf4da77d424e9d88e115444427cb09"
-
-[[files]]
 file = "config/sollimepie-server.toml"
 hash = "0655c4034f7e6517bf2866f14ba0b580402b53360bf8e11baccad4adf80587f2"
 
 [[files]]
 file = "config/sparsestructures.json5"
 hash = "ee843cfa9b9d19b46be09dba884b2d3dcd45e3dac153c0a2b38b83d3a9e2d357"
-
-[[files]]
-file = "config/vanillabackport-client.toml"
-hash = "de00b7f83a5a5345e1a26373eb02c63ce9f9465f3ed2389fc38c1d593a05361c"
 
 [[files]]
 file = "config/vanillabackport-common.toml"
@@ -201,8 +173,20 @@ file = "configureddefaults/config/bettercombat/weapon_trails.json"
 hash = "fd14cc025b6d6c54bc2ddff136f0298c0ba132dbe98c2c9c845b47b8286fc45c"
 
 [[files]]
+file = "configureddefaults/config/block_factorys_bosses-client.toml"
+hash = "62fec4a03a61e3aeca95a57c1cf95b75839a858eb0a7415ab224a3777d1923fc"
+
+[[files]]
+file = "configureddefaults/config/cataclysm-client.toml"
+hash = "30539883399b8cbb6041baabf7ba26fed8203c6cc5982e1b7fb91c62d80f2fad"
+
+[[files]]
 file = "configureddefaults/config/combat_roll/server.json5"
 hash = "a1491c5709b28c269cf38e09d4d3302e13a16c0ded28bd2c468ee1712c07e507"
+
+[[files]]
+file = "configureddefaults/config/entityculling.json"
+hash = "9b3a73bf854c3a2531ace74b8e14a2c4215ee9a802be387101d52f7b6b3aca7e"
 
 [[files]]
 file = "configureddefaults/config/ftbultimine-client.snbt"
@@ -213,8 +197,16 @@ file = "configureddefaults/config/iris.properties"
 hash = "6f60c48b9135e48341c01aff60174604aa3891ebe34955dba15529c53bc7e053"
 
 [[files]]
+file = "configureddefaults/config/simplytooltips/config.toml"
+hash = "3e5b250f6fa5e4ffb246fd04e6dcffde1cbf4da77d424e9d88e115444427cb09"
+
+[[files]]
 file = "configureddefaults/config/sodium-options.json"
 hash = "44478bef0973f1aa587c0493568a5cbc5426233b611f14bd2be489b5b862fa7f"
+
+[[files]]
+file = "configureddefaults/config/vanillabackport-client.toml"
+hash = "de00b7f83a5a5345e1a26373eb02c63ce9f9465f3ed2389fc38c1d593a05361c"
 
 [[files]]
 file = "mods/ConstructionSticks-1.21.1-1.5.0.jar"
@@ -684,6 +676,11 @@ metafile = true
 [[files]]
 file = "mods/effect-insights.pw.toml"
 hash = "cf4f5d24aa3f225ada442c8868fa30af84e757565cdfc5e6c5422e83964b875c"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
 
 [[files]]
