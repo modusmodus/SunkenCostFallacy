@@ -54,7 +54,7 @@ hash = "d1133ddf702a99577a6e6c1061e2f1604979eb4751bc1f609c9a32231ca23ca4"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
-hash = "ee0a62a6343886f8c93798e6507e66020f2925844057c4d116f793ae6fb3e062"
+hash = "181d5fbb77060c99f1c5ba17a335ee439511f439987a31ea287b593d7d1d0613"
 
 [[files]]
 file = "config/industrialforegoing/machine-core.toml"
