@@ -50,7 +50,7 @@ hash = "9b3a73bf854c3a2531ace74b8e14a2c4215ee9a802be387101d52f7b6b3aca7e"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "da94ee3dbd39b0e398e804e1ea48f77af54e9beb7594fc3ca25d64ffe97a1137"
+hash = "d1133ddf702a99577a6e6c1061e2f1604979eb4751bc1f609c9a32231ca23ca4"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
@@ -203,6 +203,10 @@ hash = "fd14cc025b6d6c54bc2ddff136f0298c0ba132dbe98c2c9c845b47b8286fc45c"
 [[files]]
 file = "configureddefaults/config/combat_roll/server.json5"
 hash = "a1491c5709b28c269cf38e09d4d3302e13a16c0ded28bd2c468ee1712c07e507"
+
+[[files]]
+file = "configureddefaults/config/ftbultimine-client.snbt"
+hash = "450678a613fe3fab00b70481cfdc79c76695eda11804226e43b196153bed2359"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
