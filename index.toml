@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-flux.pw.toml"
-hash = "79145ab2f9345a30867eb8d910bb7ec9f78ff62a721e336a37c19230f95e6a72"
+hash = "4eec5a35dee05e1ac304c4dd9d40c4063c611ac4b4d4fc81a9b362ce44fb69fb"
 metafile = true
 
 [[files]]
@@ -648,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensional-dungeons.pw.toml"
-hash = "b5dfe7b93b050a0184062144526e9a2c21b2cd0903270095e20d272f92049106"
+hash = "b25c015f0712b7c4dc6f9ed486e277633e00e0f53bc23fed3aa17860d9d726ac"
 metafile = true
 
 [[files]]
@@ -1488,7 +1488,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilitarian.pw.toml"
-hash = "308a7ca1371a5a3903940198a191cdb63b2ae9eb9776c4a0448b42af12c5af8d"
+hash = "273085ae95f4c7f12c96b54a25c385220b88172a1ccf85ae95c5765b049c06bc"
 metafile = true
 
 [[files]]
