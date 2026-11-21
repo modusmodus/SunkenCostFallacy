@@ -1,0 +1,13 @@
+name = "Ultimate Transport System"
+filename = "Ultimate-Transport-System-1.21.1-1.0.7-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "228d5f95f7b1a50217978413a8f7f092e4c961cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9549216
+project-id = 1679844

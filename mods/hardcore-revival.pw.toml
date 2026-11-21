@@ -1,0 +1,13 @@
+name = "Hardcore Revival"
+filename = "hardcorerevival-neoforge-1.21.1-21.1.22.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd5078ded1d24c2ca5a8f5cf82faa739743aec7e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8837401
+project-id = 274036

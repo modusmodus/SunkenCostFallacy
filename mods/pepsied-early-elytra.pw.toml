@@ -1,0 +1,13 @@
+name = "Pepsi's Early Elytra"
+filename = "early-elytra-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37f5c9fe304e8534c9cbdb73987536e8b14050f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6296705
+project-id = 1197998

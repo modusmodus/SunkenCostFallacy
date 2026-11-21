@@ -1,0 +1,13 @@
+name = "Qliphoth Awakening Dimensions"
+filename = "qliphoth_awakening_dimensions-neoforge1.21.1-1.1.1-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3c27197708158366c11ba49a720e1f9b243a070"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7549767
+project-id = 1380154

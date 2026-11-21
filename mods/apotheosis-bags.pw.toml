@@ -1,0 +1,13 @@
+name = "Apotheosis Bags"
+filename = "apotheosis_bags-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "223622836b530810f00607bf1a58b3960b9b547d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9144226
+project-id = 1599978

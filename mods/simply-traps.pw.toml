@@ -1,0 +1,13 @@
+name = "Simply Traps"
+filename = "simply_traps-1.9-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2aed296d683f16cf0549f5d6e1d7b5a60f71ce2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9595827
+project-id = 1172014

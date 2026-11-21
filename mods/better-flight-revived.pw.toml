@@ -1,0 +1,13 @@
+name = "Better Flight Revived"
+filename = "betterflight-neoforge-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e2d5c6b56d0ab68e58ff33828efb0d6f9f605db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8621318
+project-id = 1538652

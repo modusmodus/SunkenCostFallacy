@@ -1,0 +1,13 @@
+name = "Building Gadgets2 AE2 Addon"
+filename = "bgt_ae2_addon-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "192f2439fd5f3ecb7f8f43eded72b446a6a5319a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8739867
+project-id = 1666882

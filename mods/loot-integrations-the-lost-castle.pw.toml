@@ -1,0 +1,13 @@
+name = "Loot Integrations: The Lost Castle"
+filename = "lootintegrations_tlc-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "673e807191f0237e599722db94d5de5594b6527f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8922840
+project-id = 1152731

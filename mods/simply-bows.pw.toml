@@ -1,0 +1,13 @@
+name = "Simply Bows"
+filename = "SimplyBows-neoforge-0.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "297383feba3332d0255028af86d12f0f96239a1a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8715244
+project-id = 1475770

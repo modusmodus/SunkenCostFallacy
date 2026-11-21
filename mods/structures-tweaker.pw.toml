@@ -1,0 +1,13 @@
+name = "Structures Tweaker"
+filename = "structures_tweaker-1.21.1-NeoForge-2.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ccc9422c7046f3277edb701370c62493794c5f4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7182204
+project-id = 1195077

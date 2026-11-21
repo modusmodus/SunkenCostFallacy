@@ -1,0 +1,13 @@
+name = "Bamboo Everything"
+filename = "bambooeverything-neoforge-21.1.2+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55805b9d85964a1e0a2ce30955d55d969573de9e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7170711
+project-id = 331723

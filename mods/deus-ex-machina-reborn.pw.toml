@@ -1,0 +1,13 @@
+name = "Deus Ex Machina: Reborn"
+filename = "deus_ex_machina-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31a514dd709b0cb459a6e76d9edf09926d925a67"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7644976
+project-id = 1457118

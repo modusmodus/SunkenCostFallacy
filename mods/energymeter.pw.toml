@@ -1,0 +1,13 @@
+name = "Energy Meter"
+filename = "energymeter-neoforge-1.21.1-0.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bc13968746081d1af99ea213ac485ecf58daf30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9396087
+project-id = 532169

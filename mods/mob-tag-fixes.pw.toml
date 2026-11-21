@@ -1,0 +1,13 @@
+name = "Mob Tag Fixes"
+filename = "mob_tag_fixes-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0247806c973270f96c00535dc6f2ac0689966346"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8235580
+project-id = 1572837

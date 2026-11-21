@@ -1,0 +1,13 @@
+name = "Ribbits: Croaks"
+filename = "croaks-2.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ea85c5e175c0b574bee9b3d7a53bb49240f518d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8524954
+project-id = 1560077

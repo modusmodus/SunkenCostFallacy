@@ -1,0 +1,13 @@
+name = "End Portal Recipe"
+filename = "endportalrecipe-1.21.1-5.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61bec03fd5a60685813c29e29e00fb6bd1be0978"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9034339
+project-id = 346030

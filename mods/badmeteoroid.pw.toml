@@ -1,0 +1,13 @@
+name = "BadMeteoroid"
+filename = "BadMeteoroid-neoforge-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5412965f655c085bcc892e9948b73b6c3df77460"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7401585
+project-id = 1058316

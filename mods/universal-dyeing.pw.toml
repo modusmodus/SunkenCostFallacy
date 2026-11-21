@@ -1,0 +1,13 @@
+name = "Universal Dyeing"
+filename = "universal-dyeing-datapack-26.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c315a429df1f3c14ec6f9e5b959cd3f48f32e19c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8008532
+project-id = 1528406

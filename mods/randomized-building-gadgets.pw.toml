@@ -1,0 +1,13 @@
+name = "Randomized Building Gadgets"
+filename = "gadgetrandomizer-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc13ce4978788643c374fd2e2c06da5f37b32656"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8568856
+project-id = 1637614

@@ -1,0 +1,13 @@
+name = "Apotheosis Addon Compat"
+filename = "apotheosis-addon-compat-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d9f054ea2de1dc0010eca2dc03f5d0d7c552f55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8936508
+project-id = 1383638
