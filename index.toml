@@ -1504,7 +1504,7 @@ metafile = true
 
 [[files]]
 file = "mods/vb-compat.pw.toml"
-hash = "85a5d9a59c2e7f49eb0f8ae3b8fa52167ab0433b1f0839bdcb9a697a31e7b7bd"
+hash = "19305224fb7e261381a1fbbd32e4a00cf8d9f13f151208006b7b4adbfcd195aa"
 metafile = true
 
 [[files]]
