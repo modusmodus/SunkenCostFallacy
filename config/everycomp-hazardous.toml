@@ -36,7 +36,48 @@
 	#    ]
 	#    NOTE: This excluded one entryset from all WoodTypes/LeavesTypes
 	#
-	blacklist = []
+	blacklist = [
+		"chipped:.*door",
+		"chipped:.*log",
+		"chipped:.*glass.*",
+		"chipped:.*torch",
+		"chipped:.*leaves",
+		"chipped:planks_panel",
+		"chipped:planks_shavings",
+		"chipped:reinforced_crate",
+		"chipped:pegged_planks",
+		"chipped:hewn_planks",
+		"chipped:fine_vertical_planks",
+		"chipped:whirlwind_planks",
+		"chipped:detailed_planks",
+		"chipped:basket_woven_planks",
+		"chipped:enclosed_planks",
+		"chipped:double_herringbone_planks",
+		"chipped:crated_planks",
+		"chipped:wickered_planks",
+		"chipped:laced_planks",
+		"chipped:boxed_planks",
+		"chipped:bricky_planks",
+		"chipped:polished_planks",
+		"chipped:crossed_planks",
+		"chipped:cross_laced_planks",
+		"chipped:railed_planks",
+		"chipped:planks_mosaic",
+		"chipped:versailles_planks",
+		"chipped:slanted_planks",
+		"chipped:vertically_railed_planks",
+		"chipped:tiled_planks",
+		"chipped:thin_planks",
+		"chipped:natural_planks",
+		"chipped:brick_bond_planks",
+		"chipped:diagonal_planks",
+		"chipped:nailed_planks",
+		"chipped:cornered_planks",
+		"chipped:shifted_planks",
+		"chipped:stacked_planks",
+		"chipped:diamond_planks",
+		"rechiseled:.*stairs.*"
+	]
 
 [module]
 	#Exclude Module From Wood-Good, Stone-Zone & Gems-Realm
