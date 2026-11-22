@@ -433,10 +433,6 @@ file = "mods/blasting-plus-1.3.jar"
 hash = "0f0b8c9761486e5deb4a831a3b52587ead0f5aa8b1e819ef1c241b1e844e445d"
 
 [[files]]
-file = "mods/blockentities-[NEOFORGED]-1.21.1+1.1.0.jar"
-hash = "dc6a476bff3267f97e551f2f83a6924de710949ba4d31c77a98b92cb542f2103"
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
@@ -701,6 +697,11 @@ metafile = true
 [[files]]
 file = "mods/energymeter.pw.toml"
 hash = "e7da97d1acbe4f127c819ac887aac30eef2c5868bd4ae1b801581867d4bff0c8"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities-neoforged.pw.toml"
+hash = "ba19e88c2de56b0dbfc1731333e983dfaf0abb900fe36d1893e0cf70077e6ef5"
 metafile = true
 
 [[files]]
