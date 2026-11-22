@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "657a415947ae7c99600b9e76cfadd72edca3f67482e99de7c03528e2b0e4c6e5"
+hash = "5c20ebada190a05de03ed8d11e0adfdc56ad71b481bbdaaa64c861e5ac2b1776"
 metafile = true
 
 [[files]]
@@ -671,12 +671,12 @@ metafile = true
 
 [[files]]
 file = "mods/effect-insights.pw.toml"
-hash = "cf4f5d24aa3f225ada442c8868fa30af84e757565cdfc5e6c5422e83964b875c"
+hash = "551661e68159c2931a81ba2d66ce7e84d05d57deb01f8cf7214850a0dfc0cd9b"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+hash = "4603c93edafe22ced6578fd08ca44f8c7e4c7f4e0a59c853e7552c6b8dc99388"
 metafile = true
 
 [[files]]
@@ -711,12 +711,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "8b954d8baf312e42fbe5b324f966935201648d149a113474170892a7d4c160a6"
+hash = "22185ae1ecd5e0540b49c1ce5cabd8011b0296e8fb4024b18a13ea1308fe6d75"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "eae10750ed0a056674afed95c354d75da1e9213eaacaa0201d25bdcbe315a1cc"
+hash = "f21ae0a73994e8531bb2a79e4809530e2759e4c79a3eea3d7781acf29e0b7230"
 metafile = true
 
 [[files]]
@@ -1121,12 +1121,12 @@ metafile = true
 
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
-hash = "94e451110472bb47c50bfb8eba8758f2be2ba699b6ddcf4b140b8014a06facfd"
+hash = "5f217056eed94ecf5037f7bfb1555b26a76815cb8930fe5b4207799a1c6a69fa"
 metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "943b9f94381ecbf519e5d8530d6eae804e8e6d284bcde27fb7b5e242cefe5d5f"
+hash = "ce57a9b5f8484ebf56010cee47470a5c8363c2f8cf1450d5ac0208a7b2969584"
 metafile = true
 
 [[files]]
@@ -1151,7 +1151,7 @@ metafile = true
 
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
-hash = "985e76bc7102ebb55572abd9dd5a2e69ca0ea967cb8abcfa159ff2fdecb0d8e0"
+hash = "7021445d41682a36f1e8702d713a7ad004792e486d35b63487c2c91c203e7c6a"
 metafile = true
 
 [[files]]
