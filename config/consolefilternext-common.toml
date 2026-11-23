@@ -1,0 +1,16 @@
+[general]
+activeProfile = "default"
+ignoreCase = false
+whitelistMode = false
+filterLatestLog = true
+skipMessagesWithStackTrace = true
+basicFilters = [
+    "Ignoring unknown attribute 'forge:entity_gravity'",
+    "Ignoring unknown attribute 'forge:step_height_addition'",
+    "Failed to get Road Sign Block Entity during generation."
+]
+levelFilters = []
+threadFilters = []
+sourceFilters = []
+modIdFilters = []
+regexFilters = []

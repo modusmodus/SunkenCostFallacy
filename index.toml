@@ -33,6 +33,10 @@ file = "config/combat_roll/server.json5"
 hash = "a1491c5709b28c269cf38e09d4d3302e13a16c0ded28bd2c468ee1712c07e507"
 
 [[files]]
+file = "config/consolefilternext-common.toml"
+hash = "40b8978be39116f5f7fa5bd7ebf7bf9337f5680e6edd258a03e780fb72ab72b8"
+
+[[files]]
 file = "config/crash_assistant/config.toml"
 hash = "79533080cb98b689f286b3f2617ab557d2b1121505585ba7512d12ae832a8dcd"
 
@@ -581,6 +585,11 @@ hash = "48e86845338e9e6127ff6bb6e3c34563717d7a883719b82824720ff1c5948464"
 metafile = true
 
 [[files]]
+file = "mods/consolefilternext.pw.toml"
+hash = "311f79e67134f34ebc03376624f3ee079893b4cbad5e1d9209513fb56f0bfefc"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "616036c38fafbcaf00c0720d947ec39f571d885a014f0c81b5eeeb4193784e0e"
 metafile = true
@@ -646,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "657a415947ae7c99600b9e76cfadd72edca3f67482e99de7c03528e2b0e4c6e5"
+hash = "dfbbbe5f4135074583cdecf0bc80126091ee21ed817fd68a2017e2ab634bef0b"
 metafile = true
 
 [[files]]
@@ -752,11 +761,6 @@ metafile = true
 [[files]]
 file = "mods/explorify.pw.toml"
 hash = "ce332988cf7bf001e5589d3c42e5f59ba096fad100bff7036b06adae898286a2"
-metafile = true
-
-[[files]]
-file = "mods/extreme-sound-muffler.pw.toml"
-hash = "c8dc552aab96bc9ab2fcaa0ae5a240f47ae828c934f8eeb5269cfe642ff8ceb5"
 metafile = true
 
 [[files]]
@@ -1122,11 +1126,6 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "5f217056eed94ecf5037f7bfb1555b26a76815cb8930fe5b4207799a1c6a69fa"
-metafile = true
-
-[[files]]
-file = "mods/particular-reforged.pw.toml"
-hash = "ce57a9b5f8484ebf56010cee47470a5c8363c2f8cf1450d5ac0208a7b2969584"
 metafile = true
 
 [[files]]
