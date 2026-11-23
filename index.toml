@@ -1445,6 +1445,11 @@ hash = "01fa889082fbcae62d6dd07d4220032a1d4018edbcd82a28c54e44a8556157b2"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
+metafile = true
+
+[[files]]
 file = "mods/tool-belt.pw.toml"
 hash = "6e858314972147e4748f68e5ad8feb7039bfd8a885b952f9c3bf8d3a845e8dc9"
 metafile = true
