@@ -608,16 +608,6 @@ file = "mods/cookingforblockheads-neoforge-1.21.1-21.1.25.jar"
 hash = "1482f72cc96e15d3e6a8f903246d112bc4f4112b524aa0465cda13c152b79b75"
 
 [[files]]
-file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "7bd17d9aa0bd953d9848aef1ef9b3a08e49466de718acde9f020f8f495242f14"
-metafile = true
-
-[[files]]
-file = "mods/corpse.pw.toml"
-hash = "40fc9e871f9d9b2d327ca708a4881b682ca5fa1b9cfea53e2f67478b64783609"
-metafile = true
-
-[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "a4fc261260931f28bd822521ffa4082fb685cd79f1ae766d1407e9ca5be6a43e"
 metafile = true
