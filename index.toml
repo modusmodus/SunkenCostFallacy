@@ -150,7 +150,7 @@ hash = "96f8accf4414614ddd34b5c2bb8eb5748f85373784ef0c82ae67f0888611e764"
 
 [[files]]
 file = "config/servercore/config.yml"
-hash = "34c3c3841b551639aad5d0fddf4362be206ea195378fe1ac8efd7a757e362b3d"
+hash = "5e8716a8b6153cc58a6a20f17d17011b7f06e6483db4ce827465cfabfde48fe4"
 
 [[files]]
 file = "config/sollimepie-server.toml"
@@ -961,7 +961,7 @@ hash = "4a9a18873d6201184a5b2e879db03e1e0dd427894f9b968461a13e7ac184300f"
 
 [[files]]
 file = "mods/jump-over-fences-forge.pw.toml"
-hash = "33c677f35f4d1f87cdf68b2d89372d5d6d608dd85291313637221a71bd2faa0e"
+hash = "75631c603e37f8a2be5aaf51843a3485fad26b2d0f92ae8b5e850c714231f973"
 metafile = true
 
 [[files]]
