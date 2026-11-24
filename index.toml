@@ -41,6 +41,10 @@ file = "config/crash_assistant/config.toml"
 hash = "79533080cb98b689f286b3f2617ab557d2b1121505585ba7512d12ae832a8dcd"
 
 [[files]]
+file = "config/everycomp-hazardous.toml"
+hash = "ef4eaaaddd211aa360196534ade89fa4d418efdfb269b0dbf366cd9cdbb0cab8"
+
+[[files]]
 file = "config/industrialforegoing/machine-core.toml"
 hash = "f725850a84515cb36078bea6b76d9fc8c0b44f6ab48663144e08eb990c902cb5"
 
