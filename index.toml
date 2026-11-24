@@ -229,6 +229,11 @@ file = "mods/Rapid Oxidation 1.21.1 [NEOFORGE].jar"
 hash = "9e080008273cddd89352a0ae1c65c449a30a48468e047b5470ca8b057abfbab6"
 
 [[files]]
+file = "mods/accessible-step.pw.toml"
+hash = "0a29963989ee266df0d14affbab7b080e48e1d03630c242edd3e32e19ced44eb"
+metafile = true
+
+[[files]]
 file = "mods/advanced-core-info.pw.toml"
 hash = "133e76ea93bf3f6a0362a68af1f69afe41bea036aa41191c684b2f6deba721d6"
 metafile = true
@@ -561,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "19fc27f5e757666f1941531d84a6413be032367a34e795adba6b67a792a9557f"
+hash = "3e331904b85935623be0af57b1bd308778a6568e7a0556ef6f8c644b4380d864"
 metafile = true
 
 [[files]]
@@ -656,6 +661,11 @@ metafile = true
 [[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "dfbbbe5f4135074583cdecf0bc80126091ee21ed817fd68a2017e2ab634bef0b"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "d3c6f05de0c03ad9782c7eeaca201d687a4ea8abeb2d3bff852786e7b00cad13"
 metafile = true
 
 [[files]]
@@ -849,6 +859,11 @@ hash = "04fea0f3f55873a7488c64d617762f430744354908e7f385f385d4fa75b535bb"
 metafile = true
 
 [[files]]
+file = "mods/geophilic.pw.toml"
+hash = "a25c9bea00a19293f8b2c5958dea71e60fbe6db7800693862c3e8f624750f4b6"
+metafile = true
+
+[[files]]
 file = "mods/glassential-renewed.pw.toml"
 hash = "2502e532408b21edfb6866309dd067a574311c1a3565a889fe6302e68bc1afd4"
 metafile = true
@@ -925,6 +940,11 @@ hash = "4a9a18873d6201184a5b2e879db03e1e0dd427894f9b968461a13e7ac184300f"
 [[files]]
 file = "mods/jump-over-fences-forge.pw.toml"
 hash = "33c677f35f4d1f87cdf68b2d89372d5d6d608dd85291313637221a71bd2faa0e"
+metafile = true
+
+[[files]]
+file = "mods/keep-my-soil-tilled.pw.toml"
+hash = "ce17cf664dd8e1a6413b2037706566d1e416eb6cd5fc64b5d8d5bcedfdffd576"
 metafile = true
 
 [[files]]
@@ -1324,6 +1344,11 @@ hash = "29f523ecd3d71741f54ec5b2671d1c69840cfac79af453beb2c4222df9278019"
 metafile = true
 
 [[files]]
+file = "mods/shulker-drops-two.pw.toml"
+hash = "6a15d3998cad44c9459241f7054a5162dcfbf2965f085f8e14e7f519d1668640"
+metafile = true
+
+[[files]]
 file = "mods/simply-bows.pw.toml"
 hash = "c9a418dad2dc8b6cdf4a0c976db0135f31bffa2a9d2cb09786e2a5a4bf516767"
 metafile = true
@@ -1397,6 +1422,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-lime-pie-edition.pw.toml"
 hash = "84986cb8f31c8cd78a4c1ab15a1fb580be0a7a793c239149ac428e587d6ed0b7"
+metafile = true
+
+[[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "1986d4303ca24193e2ccfaa19e3c902872bb69582ede061b270269e3f404f84f"
 metafile = true
 
 [[files]]
@@ -1520,6 +1550,11 @@ hash = "529bc6016cedcea187a8bae8392a9998d94c114074413b88e745a9c237e330c8"
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "b2af637f4198d9bfee97e9b3b3ee298ac9b5d25d656188c698489d0d56f716f5"
+metafile = true
+
+[[files]]
+file = "mods/welcome-message.pw.toml"
+hash = "2cb1fefb151a456b83c65e9985465cb65e817ccb963e3bdda532ad8e44af0bca"
 metafile = true
 
 [[files]]
