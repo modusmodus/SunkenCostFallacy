@@ -1322,7 +1322,7 @@ metafile = true
 
 [[files]]
 file = "mods/respawning-structures-forge-fabric.pw.toml"
-hash = "c4175a1e1985db63790e6c0cd78f3cbf3245998d40862401d0f711d291411e11"
+hash = "635a0f7edb4633f3c005085bc73b94b46e778d61f2719a0353955d77c1916c30"
 metafile = true
 
 [[files]]
@@ -1347,7 +1347,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "6aba148930aeb000292b8862990ab4515ea033554b67b44dd3e59f16ef244778"
+hash = "6741d44ca22aa760867e35817cd95df5c551032c7bac44387e49dedbf8e09e5d"
 metafile = true
 
 [[files]]
@@ -1487,7 +1487,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiny-takeover-backport.pw.toml"
-hash = "b3d900b388e27aca550a32b0a457a391113c60c37aa270b8b6bfddf329d751ad"
+hash = "ea43315e6d00fbeca3351521ed16fee25e5d04ea9e1049dbb6b7a52ab6a1f0cc"
 metafile = true
 
 [[files]]
