@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/alltheleaks.json"
+hash = "3f5716a1770f73e70b69d5fed1b31d69cc811b45254bcf98d2bfcef2789495f2"
+
+[[files]]
 file = "config/artifacts/general.toml"
 hash = "2c99632f208c1f43c88754ee6f8b1be89a735b691fd238b12d06b96cbe7d086e"
 
@@ -79,6 +83,10 @@ hash = "c13563d9f52279d31b0a2c83ae160f7d0d34b01cb298994fdb62202642ea9f61"
 [[files]]
 file = "config/paxi/datapacks/Farmer's Delight Cutting Compat 1.0.zip"
 hash = "e7444cde0a4df808545b1b89daab457516ff6d879ee969a98957c00c5f1923a3"
+
+[[files]]
+file = "config/paxi/datapacks/NerfGeneticsResequenced.zip"
+hash = "22868682e534f7267764512a57ccfdfafca7a086e5adb268102f480833187410"
 
 [[files]]
 file = "config/paxi/datapacks/PK_Items_Filter_V.3.1.1_MC_1.21.zip"
@@ -231,6 +239,11 @@ hash = "c97e9b29ec56b6ca58d8024d08546aa473dc1ac1fea579bd622fadb8c0ebb0dc"
 [[files]]
 file = "mods/Rapid Oxidation 1.21.1 [NEOFORGE].jar"
 hash = "9e080008273cddd89352a0ae1c65c449a30a48468e047b5470ca8b057abfbab6"
+
+[[files]]
+file = "mods/aaron.pw.toml"
+hash = "4e48cb8b823a4d1ceb589885dbba38a0a35ed380df96d782af76b0d369a15ece"
+metafile = true
 
 [[files]]
 file = "mods/accessible-step.pw.toml"
@@ -589,6 +602,11 @@ hash = "dc42384932c78a1ee818af8d8535b51ebd836c6d1f13f3171d9bd83985565f04"
 metafile = true
 
 [[files]]
+file = "mods/complicated-bees.pw.toml"
+hash = "1ca9fef9210fb4eec4e4203ccb531a4e9821e067e52767beee139e519a72e551"
+metafile = true
+
+[[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "48e86845338e9e6127ff6bb6e3c34563717d7a883719b82824720ff1c5948464"
 metafile = true
@@ -620,6 +638,11 @@ metafile = true
 [[files]]
 file = "mods/crawl.pw.toml"
 hash = "f4f8b5eb8c1427b6bd83ca70a3dbec9845b8c5a37b9ba72b9a49ee0e45136562"
+metafile = true
+
+[[files]]
+file = "mods/crop-genetics-microscope.pw.toml"
+hash = "1db838b590924555a0d2fc78de2846d1ea0a756d817a5a47029c4f5c4516a2f5"
 metafile = true
 
 [[files]]
@@ -853,6 +876,11 @@ hash = "04fea0f3f55873a7488c64d617762f430744354908e7f385f385d4fa75b535bb"
 metafile = true
 
 [[files]]
+file = "mods/genetics-resequenced.pw.toml"
+hash = "8b03499277b65a08b2c038ff7d6ab2a7c84af1c458effd71522257c52f666e83"
+metafile = true
+
+[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "a25c9bea00a19293f8b2c5958dea71e60fbe6db7800693862c3e8f624750f4b6"
 metafile = true
@@ -943,7 +971,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "562bc572ab8ffd96ed9b7b354aed4284cd99f8e2ca96d4cf905e9d7349a0f72e"
+hash = "52be2f8af37fa9a10f817b3a676e56c9cdf33a3632048d8e922312878244b794"
 metafile = true
 
 [[files]]

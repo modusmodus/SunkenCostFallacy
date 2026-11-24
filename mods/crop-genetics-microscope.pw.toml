@@ -1,0 +1,13 @@
+name = "Crop Genetics: Microscope"
+filename = "cropgenetics_microscope-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b7e3205c4a6ebb02765a865ed8da4a8b84890fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9695252
+project-id = 1770532

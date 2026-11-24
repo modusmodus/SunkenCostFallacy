@@ -1,0 +1,13 @@
+name = "Genetics: Resequenced"
+filename = "geneticsresequenced-1.21.1-1.15.0-build.51.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/56QtOIBy/versions/ZCtE6Dfu/geneticsresequenced-1.21.1-1.15.0-build.51.jar"
+hash-format = "sha512"
+hash = "41f10a859d6e85826242f39187375ac30c2e84d57aa0e441426c851dcb4c09fd12b4aaf73548ec34018b73a2e922e571e08af3833854af8247862f0c49c74473"
+
+[update]
+[update.modrinth]
+mod-id = "56QtOIBy"
+version = "ZCtE6Dfu"
