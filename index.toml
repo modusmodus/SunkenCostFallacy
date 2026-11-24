@@ -706,11 +706,6 @@ hash = "56479d65b6c075f0a389add1db65b372175e4998a284378f8870a2f5bdc65fea"
 metafile = true
 
 [[files]]
-file = "mods/effect-insights.pw.toml"
-hash = "551661e68159c2931a81ba2d66ce7e84d05d57deb01f8cf7214850a0dfc0cd9b"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "4603c93edafe22ced6578fd08ca44f8c7e4c7f4e0a59c853e7552c6b8dc99388"
 metafile = true
@@ -943,6 +938,11 @@ metafile = true
 [[files]]
 file = "mods/item-collectors.pw.toml"
 hash = "39204787792da3c753c868898f8354d4aa8c73897cda78c178af1d9b2e073abb"
+metafile = true
+
+[[files]]
+file = "mods/item-descriptions.pw.toml"
+hash = "d36d3d62773f60ffaba12c764fcb3973ee674b02fe997a3e6b10cc8d91a1da95"
 metafile = true
 
 [[files]]
@@ -1237,7 +1237,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "611f589f0874ce5db4a2241421ce4453f9efb5bedf57e3f24c039a16a0e604c5"
+hash = "d465abcc806c0d4fdeefb6a5e774cca4fff0ffd27d7c75954ab4688f4c9eaf05"
 metafile = true
 
 [[files]]
@@ -1459,6 +1459,11 @@ metafile = true
 [[files]]
 file = "mods/structures-tweaker.pw.toml"
 hash = "39c669f741df12edb9cf9d0008b0d9334bcc8ca5edb1fc0870eb62af7f7c831d"
+metafile = true
+
+[[files]]
+file = "mods/stylish-effects.pw.toml"
+hash = "8d225378e683097ed23d02843aa4d3cf2669622418b959b4eccae54d6d23139c"
 metafile = true
 
 [[files]]
