@@ -61,6 +61,10 @@ file = "config/lithium.properties"
 hash = "6569ff131efcf1de4861ae32add7f855e063785029907bfbe6065ab750e9c3e6"
 
 [[files]]
+file = "config/lmft.json5"
+hash = "b6b709c761fbb52503ddd0a6a8ad7eca6d25c54347f0ab193ada8e0c40d8526c"
+
+[[files]]
 file = "config/lootr-common.toml"
 hash = "4fa249b66311dc80df8d14cfee3dcf60401fb04099067c806d18f376d5038dc8"
 
@@ -83,6 +87,14 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 [[files]]
 file = "config/paxi/datapacks/Atrophy Edit.zip"
 hash = "c13563d9f52279d31b0a2c83ae160f7d0d34b01cb298994fdb62202642ea9f61"
+
+[[files]]
+file = "config/paxi/datapacks/CompactMachines_basic_templates.zip"
+hash = "f9e31017f22b22f2e03c6b0aa57576bcb34cf207ac865ca5bffbd0eee8a8914f"
+
+[[files]]
+file = "config/paxi/datapacks/CompactMachines_room_upgrades.zip"
+hash = "cbd80e14ff33e1789f4ec0d0b71dbe0f2f4556bd66be52139c6234e13e9d1c40"
 
 [[files]]
 file = "config/paxi/datapacks/CraftableImprovedGenetics.zip"
@@ -190,7 +202,7 @@ hash = "c04355de6cca742bf251442bb678f6d896de8a73b7c27ac95f0a46486d3a369f"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
-hash = "16b61ab4705bb18b9ca3c01f31652fbb9f655b4becf4de5c6c038e599adb7347"
+hash = "1bb8c79ba23f72ed5c206f623175c2384ad95b332946728ee7381febbab40bc0"
 
 [[files]]
 file = "configureddefaults/config/bettercombat/client.json5"
@@ -233,6 +245,10 @@ file = "configureddefaults/config/iris.properties"
 hash = "6f60c48b9135e48341c01aff60174604aa3891ebe34955dba15529c53bc7e053"
 
 [[files]]
+file = "configureddefaults/config/lmft.json"
+hash = "7564aee7b7bf3477b71532d3fda3223c5455182d6b516850887184c4412e8c3d"
+
+[[files]]
 file = "configureddefaults/config/simplytooltips/config.toml"
 hash = "3e5b250f6fa5e4ffb246fd04e6dcffde1cbf4da77d424e9d88e115444427cb09"
 
@@ -243,6 +259,10 @@ hash = "44478bef0973f1aa587c0493568a5cbc5426233b611f14bd2be489b5b862fa7f"
 [[files]]
 file = "configureddefaults/config/vanillabackport-client.toml"
 hash = "de00b7f83a5a5345e1a26373eb02c63ce9f9465f3ed2389fc38c1d593a05361c"
+
+[[files]]
+file = "configureddefaults/config/vanillabackport-common.toml"
+hash = "112aa2cf7fc361fc4d0735a843c2d404dd41eb1ee10fdcc8d13153b49e91740f"
 
 [[files]]
 file = "mods/ConstructionSticks-1.21.1-1.5.0.jar"
