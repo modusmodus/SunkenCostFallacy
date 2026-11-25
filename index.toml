@@ -46,7 +46,11 @@ hash = "79533080cb98b689f286b3f2617ab557d2b1121505585ba7512d12ae832a8dcd"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
-hash = "ef4eaaaddd211aa360196534ade89fa4d418efdfb269b0dbf366cd9cdbb0cab8"
+hash = "e7d9165a65784b4c9ad8fef9ce9efccfd09066e699b340263851ccb4c366717a"
+
+[[files]]
+file = "config/geneticsresequenced-server.toml"
+hash = "8d197258a2d155f56e05b8414eb56cc661f215355af0a25d628a6b596246539d"
 
 [[files]]
 file = "config/industrialforegoing/machine-core.toml"
@@ -143,6 +147,10 @@ hash = "c13563d9f52279d31b0a2c83ae160f7d0d34b01cb298994fdb62202642ea9f61"
 [[files]]
 file = "config/paxi/resourcepacks/Custom Logo.zip"
 hash = "6eb5dc08da57cfddd8fc55c2e0c6fe5e45365afbe361b310fc3a75a8d138fde7"
+
+[[files]]
+file = "config/productivetrees-server.toml"
+hash = "345b62f0d4e476d477eb670720137c0de59c0647f63f2be5f76a6ada72cfd28a"
 
 [[files]]
 file = "config/regions_unexplored/common.json5"
@@ -686,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "dfbbbe5f4135074583cdecf0bc80126091ee21ed817fd68a2017e2ab634bef0b"
+hash = "561634eaabb75740dbff13dcc8c46864cbea50b7fe0c619c5b6e882deda839d7"
 metafile = true
 
 [[files]]
@@ -961,7 +969,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "d36d3d62773f60ffaba12c764fcb3973ee674b02fe997a3e6b10cc8d91a1da95"
+hash = "016c815068288d23b26d81bfab6d49b4030a8dc22a6077fddd88a032f29c0f42"
 metafile = true
 
 [[files]]
@@ -1487,7 +1495,7 @@ metafile = true
 
 [[files]]
 file = "mods/stylish-effects.pw.toml"
-hash = "8d225378e683097ed23d02843aa4d3cf2669622418b959b4eccae54d6d23139c"
+hash = "b4d76bfc8a971f7b264091586ae794a30e3cad62ac1a8165767dd0c669210a32"
 metafile = true
 
 [[files]]

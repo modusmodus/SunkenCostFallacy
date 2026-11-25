@@ -11,8 +11,3 @@ hash = "5dbf9be82e7da514b84b0b984789d272b5e0ccf2d667dd3d669e504ed512c3b7de1eb59b
 [update.modrinth]
 mod-id = "onDuQF5e"
 version = "MT3yeDds"
-
-[option]
-optional = true
-default = true
-description = "Optional client tooltip and status-effect UI polish"
