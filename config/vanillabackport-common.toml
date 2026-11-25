@@ -128,7 +128,7 @@
 	#allow Nautilus Armor to generate in loot chests
 	has_nautilus_armor_loot = true
 	#allow Spears to be obtainable and allow monsters to spawn holding them
-	has_spears = true
+	has_spears = false
 	#allow mounts to float while ridden
 	can_mounts_float_while_ridden = true
 

@@ -62,7 +62,7 @@ hash = "6569ff131efcf1de4861ae32add7f855e063785029907bfbe6065ab750e9c3e6"
 
 [[files]]
 file = "config/lmft.json5"
-hash = "b6b709c761fbb52503ddd0a6a8ad7eca6d25c54347f0ab193ada8e0c40d8526c"
+hash = "9213ebd5d10ed0d428e0466299f57aa7fe09470d5770d4b99be1eebe61294ab5"
 
 [[files]]
 file = "config/lootr-common.toml"
@@ -194,7 +194,7 @@ hash = "ee843cfa9b9d19b46be09dba884b2d3dcd45e3dac153c0a2b38b83d3a9e2d357"
 
 [[files]]
 file = "config/vanillabackport-common.toml"
-hash = "6bf9f6ee3fe1abfad94bc184bd4b1a3ee568f3d7e93c8e448293151116e56da4"
+hash = "112aa2cf7fc361fc4d0735a843c2d404dd41eb1ee10fdcc8d13153b49e91740f"
 
 [[files]]
 file = "config/waystones-common.toml"
