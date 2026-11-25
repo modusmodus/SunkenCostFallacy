@@ -161,6 +161,14 @@ file = "config/respawningstructures.json"
 hash = "96f8accf4414614ddd34b5c2bb8eb5748f85373784ef0c82ae67f0888611e764"
 
 [[files]]
+file = "config/serilum/collective.json"
+hash = "f811919d476a61ab5c1c84abec958536feecfa07f28b25d5442abbb841d014d9"
+
+[[files]]
+file = "config/serilum/welcomemessage.json"
+hash = "29bfde6d2f7a9d815f8e946a63c8c5ffd4031fad391a79c9bd9100efaee0bea9"
+
+[[files]]
 file = "config/servercore/config.yml"
 hash = "5e8716a8b6153cc58a6a20f17d17011b7f06e6483db4ce827465cfabfde48fe4"
 
