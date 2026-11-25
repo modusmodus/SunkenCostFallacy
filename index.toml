@@ -81,6 +81,10 @@ file = "config/paxi/datapacks/Atrophy Edit.zip"
 hash = "c13563d9f52279d31b0a2c83ae160f7d0d34b01cb298994fdb62202642ea9f61"
 
 [[files]]
+file = "config/paxi/datapacks/CraftableImprovedGenetics.zip"
+hash = "364602b16db448401973ef1449b509807774763af7d41e8543f7aac5098c2421"
+
+[[files]]
 file = "config/paxi/datapacks/Farmer's Delight Cutting Compat 1.0.zip"
 hash = "e7444cde0a4df808545b1b89daab457516ff6d879ee969a98957c00c5f1923a3"
 
@@ -372,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/applied-flux.pw.toml"
 hash = "4eec5a35dee05e1ac304c4dd9d40c4063c611ac4b4d4fc81a9b362ce44fb69fb"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "6796a0cc60150693f70ffb1e27ea5e33115b369872c39dad6178cd3a79f99b29"
 metafile = true
 
 [[files]]
@@ -726,6 +735,11 @@ hash = "b4085a5772cddefe655155a25d0d24d2f8f34017c61d9cd786d7a9868abf9092"
 metafile = true
 
 [[files]]
+file = "mods/enderdragon-loot.pw.toml"
+hash = "1af21888262232d36c38cc6571edfbbfa5e75222d6d634fb68d4ac01338460f2"
+metafile = true
+
+[[files]]
 file = "mods/energymeter.pw.toml"
 hash = "e7da97d1acbe4f127c819ac887aac30eef2c5868bd4ae1b801581867d4bff0c8"
 metafile = true
@@ -908,6 +922,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "87d5822fd5757378e66eb480206d9a5b20d6b26be6700afa8c2b08c5898ab80b"
+metafile = true
+
+[[files]]
+file = "mods/improved-genetics.pw.toml"
+hash = "5d66f698848f9aee5644a93476117a72e2ba843a70e2643b223d68dbae2d8d49"
 metafile = true
 
 [[files]]
@@ -1228,6 +1247,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
+metafile = true
+
+[[files]]
+file = "mods/productivetrees.pw.toml"
+hash = "908e16f95a74ef48a61dbb9269ee04b1617f5947d3908251872465aeef4e2f62"
 metafile = true
 
 [[files]]
