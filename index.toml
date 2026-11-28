@@ -194,7 +194,7 @@ hash = "0655c4034f7e6517bf2866f14ba0b580402b53360bf8e11baccad4adf80587f2"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "ee843cfa9b9d19b46be09dba884b2d3dcd45e3dac153c0a2b38b83d3a9e2d357"
+hash = "fb2d555e8d8b3a1dd745100183409a18e2396828386c98527e433acd490e85fc"
 
 [[files]]
 file = "config/stonezone-hazardous.toml"
@@ -307,11 +307,6 @@ metafile = true
 [[files]]
 file = "mods/advancedae.pw.toml"
 hash = "361a6afe298a1a3265be267647ce95ae1743306a9b9e416c71887ca33ea14838"
-metafile = true
-
-[[files]]
-file = "mods/ae2-jei-integration.pw.toml"
-hash = "ca8c7d2232f0f667c25c22dd404aaa0c0b521278142aa15df550d79a1ca25f5b"
 metafile = true
 
 [[files]]
@@ -1021,7 +1016,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "016c815068288d23b26d81bfab6d49b4030a8dc22a6077fddd88a032f29c0f42"
+hash = "d46eb6ab88b634043d4dbb99d705a1ea9343aad80b5f4b13819b73c75cd14800"
 metafile = true
 
 [[files]]
@@ -1037,6 +1032,11 @@ metafile = true
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.71.0.475.jar"
 hash = "4a9a18873d6201184a5b2e879db03e1e0dd427894f9b968461a13e7ac184300f"
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "d1f8a0b000fed38cced4dc5850c00268407cbe43676a04014ed78c116c3dcfe7"
+metafile = true
 
 [[files]]
 file = "mods/jump-over-fences-forge.pw.toml"
