@@ -1684,6 +1684,11 @@ hash = "47768fb5ae0d0df1dba7d0cce3dfe9b2143142b0e8eda2317ade440d3246944c"
 metafile = true
 
 [[files]]
+file = "mods/wwoo.pw.toml"
+hash = "68b74b23a76eaf8a5ed82524b581a69caed0a0139176f01c437c9b3fb0dc094e"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "5604013bfdf61b3554756f274e2b055d9d1783594d4a342c0daa710b4b777afd"
 metafile = true
