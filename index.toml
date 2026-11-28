@@ -315,6 +315,11 @@ hash = "d3f70105c53fea2eff787d2cd7c3adcfbc99019104a6ed1454a3ae715613730e"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "e5a4c0315e40bab4b2ba410dd5d2dd8b7662eaea525c1b2e6bebfa35fe3e71c7"
+metafile = true
+
+[[files]]
 file = "mods/aeinfinitybooster.pw.toml"
 hash = "502acfe0719dba9efca4a46b725c92201ce4ddfb07769dfd732e3afb0b197e66"
 metafile = true
@@ -956,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "62637d9fa6059eee6042ffe48185a94621d4f45e0c3e77397b4e19cbbcbc59fb"
+hash = "afbf995d300c4337cc36704087731f5c9a3d7bc49f9110bcfe72b9c345f24bd7"
 metafile = true
 
 [[files]]
