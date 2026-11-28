@@ -218,7 +218,7 @@ hash = "d11370ac44b7af777dbe81ce47654b3c6db52387438d23489c8c0ecfece3acac"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
-hash = "c148e5eabaef05407ade71a0e1902b092f1ca8c6813ee1741c13a7c0bff0ce8e"
+hash = "f69904e14ded39523ecd390ad6a9f31341c5187097ace5ced18a2e44038fc58e"
 
 [[files]]
 file = "configureddefaults/config/bettercombat/client.json5"

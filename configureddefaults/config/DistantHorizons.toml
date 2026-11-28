@@ -204,21 +204,21 @@ _version = 5
 			#
 			# If enabled, a chat message will be displayed if vanilla MC's 
 			# render distance is higher than the recommended amount.
-			showHighVanillaRenderDistanceWarning = true
+			showHighVanillaRenderDistanceWarning = false
 			#
 			# If enabled, a chat message will be displayed if DH detects 
 			# that any pooled objects have been garbage collected.
-			showPoolInsufficientMemoryWarning = true
+			showPoolInsufficientMemoryWarning = false
 			#
 			# If enabled, a message will be logged if the garbage 
 			# collector Java is currently using is known 
 			# to cause frame stuttering and/or other issues.
-			logGarbageCollectorWarning = true
+			logGarbageCollectorWarning = false
 			#
 			# If enabled, a chat message will be displayed in chat if the garbage 
 			# collector Java is currently using is known 
 			# to cause frame stuttering and/or other issues.
-			showGarbageCollectorWarning = true
+			showGarbageCollectorWarning = false
 
 	[common.worldGenerator]
 		#
