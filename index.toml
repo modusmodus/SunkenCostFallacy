@@ -1011,7 +1011,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "d46eb6ab88b634043d4dbb99d705a1ea9343aad80b5f4b13819b73c75cd14800"
+hash = "8a40fbb5134319b78d816d27da900e78a0a51d6d3a312a23c3d05be6a2d7c894"
 metafile = true
 
 [[files]]
@@ -1030,7 +1030,7 @@ hash = "4a9a18873d6201184a5b2e879db03e1e0dd427894f9b968461a13e7ac184300f"
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d1f8a0b000fed38cced4dc5850c00268407cbe43676a04014ed78c116c3dcfe7"
+hash = "fcc3fff9a6746be213164292a8a83f2e37c465589b76504245f5ae74df91192c"
 metafile = true
 
 [[files]]
