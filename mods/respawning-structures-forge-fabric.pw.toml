@@ -1,13 +1,13 @@
 name = "Respawning Structures"
-filename = "respawningstructures-1.21.1-4.5.jar"
+filename = "respawningstructures-1.21.1-4.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f2a16b4ebec9912de1e5549450d483f271604f58"
+hash = "ace6993feddb2e69e0e32248952e8a0d2112c821"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9776101
+file-id = 9815805
 project-id = 969937
