@@ -6,12 +6,12 @@
 	#        "biomesoplenty:redwood"		COMMENT: exclude redwood from Wood Mod for any module
 	#    ]
 	#
-	blacklist = ["productivetrees:.*"]
+	blacklist = ["productivetrees:.*", "regions_unexplored:.*"]
 
 [leavestype]
 	#Exclude LeavesType from all of Modules
 	#	The example is same as WoodType's
-	blacklist = ["productivetrees:.*"]
+	blacklist = ["productivetrees:.*", "regions_unexplored:.*"]
 
 [block]
 	#Exclude a specific WoodType/LeavesType block

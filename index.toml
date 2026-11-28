@@ -46,7 +46,7 @@ hash = "79533080cb98b689f286b3f2617ab557d2b1121505585ba7512d12ae832a8dcd"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
-hash = "e7d9165a65784b4c9ad8fef9ce9efccfd09066e699b340263851ccb4c366717a"
+hash = "09fcfde3dee6b32ee8e167c5d5010203aea95a03f07fc611e19717798e932702"
 
 [[files]]
 file = "config/geneticsresequenced-server.toml"
@@ -99,6 +99,10 @@ hash = "cbd80e14ff33e1789f4ec0d0b71dbe0f2f4556bd66be52139c6234e13e9d1c40"
 [[files]]
 file = "config/paxi/datapacks/CraftableImprovedGenetics.zip"
 hash = "364602b16db448401973ef1449b509807774763af7d41e8543f7aac5098c2421"
+
+[[files]]
+file = "config/paxi/datapacks/DungeonsAriseVillageBuffer.zip"
+hash = "cefaa1f812827a5a63ec2856bbcce4333691ba7b76a5bbdc6f037d3888c69195"
 
 [[files]]
 file = "config/paxi/datapacks/Farmer's Delight Cutting Compat 1.0.zip"
@@ -165,8 +169,8 @@ file = "config/productivetrees-server.toml"
 hash = "345b62f0d4e476d477eb670720137c0de59c0647f63f2be5f76a6ada72cfd28a"
 
 [[files]]
-file = "config/regions_unexplored/common.json5"
-hash = "4ae8d3c969e7448677acbdebe479081634b96479280ecdd003a07b3e08c44ab9"
+file = "config/regions_unexplored/common.json"
+hash = "e37947fe0d4270aed1fe01eb6db1c628e4e90bd1a541b4fa21886183d450557f"
 
 [[files]]
 file = "config/respawningstructures.json"
@@ -193,12 +197,20 @@ file = "config/sparsestructures.json5"
 hash = "ee843cfa9b9d19b46be09dba884b2d3dcd45e3dac153c0a2b38b83d3a9e2d357"
 
 [[files]]
+file = "config/stonezone-hazardous.toml"
+hash = "ac76e44be82a4ffd903f97287c036b568a43bf1d4ad0bf43a202039514e718f2"
+
+[[files]]
 file = "config/vanillabackport-common.toml"
 hash = "112aa2cf7fc361fc4d0735a843c2d404dd41eb1ee10fdcc8d13153b49e91740f"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "c04355de6cca742bf251442bb678f6d896de8a73b7c27ac95f0a46486d3a369f"
+hash = "a5da31c28f1bdf78333a8cbed3639396276f550f8412c96bee968ebec8524956"
+
+[[files]]
+file = "config/wwoo/config.json5"
+hash = "d11370ac44b7af777dbe81ce47654b3c6db52387438d23489c8c0ecfece3acac"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
@@ -245,10 +257,6 @@ file = "configureddefaults/config/iris.properties"
 hash = "6f60c48b9135e48341c01aff60174604aa3891ebe34955dba15529c53bc7e053"
 
 [[files]]
-file = "configureddefaults/config/lmft.json"
-hash = "7564aee7b7bf3477b71532d3fda3223c5455182d6b516850887184c4412e8c3d"
-
-[[files]]
 file = "configureddefaults/config/simplytooltips/config.toml"
 hash = "3e5b250f6fa5e4ffb246fd04e6dcffde1cbf4da77d424e9d88e115444427cb09"
 
@@ -259,10 +267,6 @@ hash = "44478bef0973f1aa587c0493568a5cbc5426233b611f14bd2be489b5b862fa7f"
 [[files]]
 file = "configureddefaults/config/vanillabackport-client.toml"
 hash = "de00b7f83a5a5345e1a26373eb02c63ce9f9465f3ed2389fc38c1d593a05361c"
-
-[[files]]
-file = "configureddefaults/config/vanillabackport-common.toml"
-hash = "112aa2cf7fc361fc4d0735a843c2d404dd41eb1ee10fdcc8d13153b49e91740f"
 
 [[files]]
 file = "mods/ConstructionSticks-1.21.1-1.5.0.jar"
@@ -313,6 +317,16 @@ metafile = true
 [[files]]
 file = "mods/ae2-network-analyser.pw.toml"
 hash = "23ca334019a3e9572ea1c462d5c4e732eb34f657111951cfb781cd52da59b08c"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "e5a4c0315e40bab4b2ba410dd5d2dd8b7662eaea525c1b2e6bebfa35fe3e71c7"
+metafile = true
+
+[[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "502acfe0719dba9efca4a46b725c92201ce4ddfb07769dfd732e3afb0b197e66"
 metafile = true
 
 [[files]]
@@ -706,6 +720,11 @@ hash = "e32ed42f8a59a96e9ea0005a678dd66ca77791b8574c1bea82d9f85d6e81b577"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "a9ecc4476d26e707189e9f988c19f22961c33dfd5e5b4db1dfd6f87c6a81c545"
+metafile = true
+
+[[files]]
 file = "mods/deus-ex-machina-reborn.pw.toml"
 hash = "b07f453f3f448bb19884bae9708d3829537df23eda70a5fd57eee88686c2b61c"
 metafile = true
@@ -853,6 +872,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
+metafile = true
+
+[[files]]
+file = "mods/fire-spread-tweaks.pw.toml"
+hash = "bfedacf2a3bb10b3fd836a1aa66f3a741b0137002522120863c767306be7839f"
 metafile = true
 
 [[files]]
@@ -1527,6 +1551,11 @@ hash = "b4d76bfc8a971f7b264091586ae794a30e3cad62ac1a8165767dd0c669210a32"
 metafile = true
 
 [[files]]
+file = "mods/subsurface.pw.toml"
+hash = "a9ce0518bc6aaa80a3e2ca78e3182aac465c4ca0583ed2efe41cc7a52b2f5c1f"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
 metafile = true
@@ -1660,6 +1689,11 @@ hash = "47768fb5ae0d0df1dba7d0cce3dfe9b2143142b0e8eda2317ade440d3246944c"
 metafile = true
 
 [[files]]
+file = "mods/wwoo.pw.toml"
+hash = "1960c304ef7e5eb391934e0c102fd3346afe586cd5df5efb0cd7235e0a583634"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "5604013bfdf61b3554756f274e2b055d9d1783594d4a342c0daa710b4b777afd"
 metafile = true
@@ -1732,4 +1766,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras-neoforge.pw.toml"
 hash = "cd321f6365bc3938e0671450aadcd40c8e03af5cb24d0a545fb07c890b4793ac"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
