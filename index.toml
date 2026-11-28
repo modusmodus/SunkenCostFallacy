@@ -6,7 +6,7 @@ hash = "3f5716a1770f73e70b69d5fed1b31d69cc811b45254bcf98d2bfcef2789495f2"
 
 [[files]]
 file = "config/artifacts/general.toml"
-hash = "2c99632f208c1f43c88754ee6f8b1be89a735b691fd238b12d06b96cbe7d086e"
+hash = "b3d20e9e5607e484357d4eaa267dd056e26443704a4ad5ffd06771f305b122fe"
 
 [[files]]
 file = "config/artifacts/items.toml"
@@ -39,10 +39,6 @@ hash = "a1491c5709b28c269cf38e09d4d3302e13a16c0ded28bd2c468ee1712c07e507"
 [[files]]
 file = "config/consolefilternext-common.toml"
 hash = "40b8978be39116f5f7fa5bd7ebf7bf9337f5680e6edd258a03e780fb72ab72b8"
-
-[[files]]
-file = "config/crash_assistant/config.toml"
-hash = "79533080cb98b689f286b3f2617ab557d2b1121505585ba7512d12ae832a8dcd"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
@@ -173,6 +169,14 @@ file = "config/regions_unexplored/common.json"
 hash = "e37947fe0d4270aed1fe01eb6db1c628e4e90bd1a541b4fa21886183d450557f"
 
 [[files]]
+file = "config/relics.yaml"
+hash = "a99ad6248bf0f596bd577b3c02135889b7421ce1f6872180df6ed627e43cb2aa"
+
+[[files]]
+file = "config/relics/loot.yaml"
+hash = "140c4163b9397e00a6eac090a173e53b05f0d551a317f982476865391649e4c6"
+
+[[files]]
 file = "config/respawningstructures.json"
 hash = "96f8accf4414614ddd34b5c2bb8eb5748f85373784ef0c82ae67f0888611e764"
 
@@ -214,7 +218,7 @@ hash = "d11370ac44b7af777dbe81ce47654b3c6db52387438d23489c8c0ecfece3acac"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
-hash = "1bb8c79ba23f72ed5c206f623175c2384ad95b332946728ee7381febbab40bc0"
+hash = "c148e5eabaef05407ade71a0e1902b092f1ca8c6813ee1741c13a7c0bff0ce8e"
 
 [[files]]
 file = "configureddefaults/config/bettercombat/client.json5"
