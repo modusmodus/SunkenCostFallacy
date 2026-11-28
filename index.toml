@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena.pw.toml"
-hash = "38bddea8d550568799dd7f208c0bbe10280de3e456016a0d59aa20de112a2345"
+hash = "e0228a69273e8d891378eb21914741f5d4acdbda881d8d35994441da9680e184"
 metafile = true
 
 [[files]]
@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/compact-machines-preview-fixer.pw.toml"
-hash = "93f77b8735075077d016d7c1bf7ccfce7db5af5624924f4607af74d576a368f1"
+hash = "053576c91c684a07d60aa4a713b5da69d7811a5ab18b13ee021e863204b981d6"
 metafile = true
 
 [[files]]
@@ -911,7 +911,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "760b68f2927bf6e2043afa4e3a19956f5405e4dfad2940bb6140c904974cdcad"
+hash = "511a2d699499d0f1e7b8c9aa3c495e7b858b2778c053b769f55bf72a61f81bc8"
 metafile = true
 
 [[files]]
