@@ -2,13 +2,13 @@
   "enableAutomaticRespawn": {
     // Enables automatic respawning of structures, 
     // Default:true
-    "enableAutomaticRespawn": false
+    "enableAutomaticRespawn": true
   },
 
   "minutesUntilRespawn": {
     // Sets the time after which a structure can respawn, the timer starts after the last activity within the structure.
     // Default:5760 minutes(96h)
-    "minutesUntilRespawn": 720
+    "minutesUntilRespawn": 5760
   },
 
   "increaseDifficultyWithRespawn": {
@@ -40,11 +40,7 @@
 
   "dimensionBlackList": {
     // List of blacklisted dimension ids, e.g. minecraft:overworld  Seperate multiple entries by , 
-    "dimensionBlackList": [
-	  "qliphoth_awakening_dimensions:chesed_dim",
-      "qliphoth_awakening_dimensions:malkuth_dim",
-      "qliphoth_awakening_dimensions:geburah_dim"
-	  ]
+    "dimensionBlackList": []
   },
 
   "respawnableStructures": {
@@ -55,22 +51,7 @@
 
   "blacklistedStructures": {
     // List of blacklisted structures(or tags of structures), those won't respawn ever: e.g. minecraft:mansion   Seperate multiple entries by ,
-    "blacklistedStructures": [
-	      "#minecraft:village",
-      "minecraft:stronghold",
-      "ae2:meteorite",
-      "cataclysm:soul_black_smith",
-      "cataclysm:ruined_citadel",
-      "cataclysm:burning_arena",
-      "cataclysm:sunken_city",
-      "cataclysm:cursed_pyramid",
-      "cataclysm:ancient_factory",
-      "cataclysm:frosted_prison",
-      "cataclysm:acropolis",
-      "fdbosses:chesed_arena",
-      "fdbosses:malkuth_arena",
-      "fdbosses:geburah_arena"
-	]
+    "blacklistedStructures": []
   },
 
   "whitelist": {

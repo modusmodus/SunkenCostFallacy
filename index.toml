@@ -38,7 +38,7 @@ hash = "a1491c5709b28c269cf38e09d4d3302e13a16c0ded28bd2c468ee1712c07e507"
 
 [[files]]
 file = "config/consolefilternext-common.toml"
-hash = "40b8978be39116f5f7fa5bd7ebf7bf9337f5680e6edd258a03e780fb72ab72b8"
+hash = "cb659d856cc33fc560566b07e3ac8adce474da93dfa42ccc513bc52d7096960c"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
@@ -178,7 +178,7 @@ hash = "140c4163b9397e00a6eac090a173e53b05f0d551a317f982476865391649e4c6"
 
 [[files]]
 file = "config/respawningstructures.json"
-hash = "96f8accf4414614ddd34b5c2bb8eb5748f85373784ef0c82ae67f0888611e764"
+hash = "6eee1f247b7e13d4584e3c3230c7943fb0c52a6dc8192d1bb850417e42c06635"
 
 [[files]]
 file = "config/serilum/collective.json"
